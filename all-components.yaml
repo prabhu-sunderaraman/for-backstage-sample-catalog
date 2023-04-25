@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: sample-services
+  description: A collection of all sample services
+spec:
+  targets:
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/sample-component.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample2-service/blob/main/sample2-component.yml
