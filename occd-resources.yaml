@@ -6,3 +6,6 @@ metadata:
 spec:
   targets:
     - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-eventhub.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-database.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/carrier-capacity-eventhub.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/carrier-capacity-database.yml

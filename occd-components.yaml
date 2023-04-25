@@ -6,4 +6,5 @@ metadata:
 spec:
   targets:
     - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-consumer.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/carrier-capacity-consumption.yml
     - https://github.com/prabhu-sunderaraman/for-backstage-sample-library/blob/master/capacity-common-library.yml
