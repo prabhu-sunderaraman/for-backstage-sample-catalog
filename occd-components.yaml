@@ -5,5 +5,5 @@ metadata:
   description: A collection of all OCCD services
 spec:
   targets:
-    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-component.yml
-    - https://github.com/prabhu-sunderaraman/for-backstage-sample-library/blob/master/capacity-common-library-component.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-consumer.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-library/blob/master/capacity-common-library.yml

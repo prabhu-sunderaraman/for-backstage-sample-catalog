@@ -6,4 +6,5 @@ metadata:
 spec:
   targets:
     - ./occd-components.yaml
+    - ./occd-resources.yaml
 
