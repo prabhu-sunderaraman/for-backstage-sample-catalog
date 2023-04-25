@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: sample-apis
-  description: A collection of all Sample APIs
+  name: occd-resources
+  description: A collection of all OCCD Resources
 spec:
   targets:
     - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-eventhub.yml
