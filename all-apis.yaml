@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: sample-apis
+  description: A collection of all Sample APIs
+spec:
+  targets:
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample2-service/blob/main/sample2-api.yaml
