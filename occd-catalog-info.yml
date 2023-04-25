@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: OCCD-Catalog
+  name: occd-catalog
   description: A collection of all entities in OCCD
 spec:
   targets:
