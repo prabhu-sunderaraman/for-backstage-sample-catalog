@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: sample-services
+  description: A collection of all sample services
+spec:
+  targets:
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-service/blob/master/resource-pool-component.yml
+    - https://github.com/prabhu-sunderaraman/for-backstage-sample-library/blob/main/capacity-common-library-component.yml
